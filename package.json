@@ -1,0 +1,26 @@
+{
+  "name": "sql-etl",
+  "version": "0.0.1",
+  "description": "SQL in Datawarehouse Transform tool",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OTooleMichael/sql-etl.git"
+  },
+  "keywords": [
+    "Redshift",
+    "AWS",
+    "ETL",
+    "SQL",
+    "Transform"
+  ],
+  "author": "Michael O Toole",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/OTooleMichael/sql-etl/issues"
+  },
+  "homepage": "https://github.com/OTooleMichael/sql-etl#readme"
+}
