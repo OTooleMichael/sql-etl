@@ -1,0 +1,11 @@
+{
+	"title":"daily laoding",
+	"version":"0.0.1",
+	"list":[
+		{ "path":"folder1/file1.sql","params":{"user":12344},"test":true },
+		[
+			{ "path":"folder1/file2a.sql","params":{"user":12344},"test":true },
+			{ "path":"folder1/file2b.sql","params":{"user":12344},"test":true }
+		]
+	]
+}

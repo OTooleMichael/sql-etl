@@ -2,7 +2,7 @@
   "name": "sql-etl",
   "version": "0.0.1",
   "description": "SQL in Datawarehouse Transform tool",
-  "main": "app.js",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -22,5 +22,10 @@
   "bugs": {
     "url": "https://github.com/OTooleMichael/sql-etl/issues"
   },
-  "homepage": "https://github.com/OTooleMichael/sql-etl#readme"
+  "homepage": "https://github.com/OTooleMichael/sql-etl#readme",
+  "dependencies": {
+    "adm-zip": "^0.4.7",
+    "archiver": "^2.1.1",
+    "aws-sdk": "^2.221.1"
+  }
 }
