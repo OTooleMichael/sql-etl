@@ -1,6 +1,6 @@
 {
   "name": "sql-etl",
-  "version": "0.0.12",
+  "version": "0.0.13",
   "description": "SQL in Datawarehouse Transform tool",
   "main": "index.js",
   "scripts": {
@@ -24,9 +24,9 @@
   },
   "homepage": "https://github.com/OTooleMichael/sql-etl#readme",
   "dependencies": {
-    "adm-zip": "^0.4.7",
+    "adm-zip": "^0.4.11",
     "archiver": "^2.1.1",
-    "aws-sdk": "^2.221.1",
+    "aws-sdk": "^2.249.1",
     "jsonschema": "^1.2.4"
   }
 }
